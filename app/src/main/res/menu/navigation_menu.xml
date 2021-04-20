@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/menu_quiz"
+        android:icon="@drawable/ic_outline_quiz_24"
+        app:cnb_iconColor="@color/red"
+        app:cnb_iconSize="46dp"
+        android:title="Quiz" />
+
+    <item android:id="@+id/menu_dictionary"
+        android:icon="@drawable/dic"
+        app:cnb_iconColor="@color/red"
+        app:cnb_iconSize="46dp"
+        android:title="Dictionary" />
+
+    <item
+        android:id="@+id/menu_library"
+        android:icon="@drawable/lib"
+        app:cnb_iconColor="@color/white"
+        app:cnb_iconSize="36dp"
+        android:title="Library" />
+</menu>

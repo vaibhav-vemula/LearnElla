@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/alegreya_sans_sc_bold</item>
+        <item>@font/arima_madurai_medium</item>
+        <item>@font/bad_script</item>
+        <item>@font/cinzel_decorative_black</item>
+        <item>@font/grand_hotel</item>
+        <item>@font/nosifer</item>
+    </array>
+</resources>

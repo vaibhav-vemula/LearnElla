@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LearnElla</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="quiz">QUIZ</string>
+    <string name="high_score">High Score -</string>
+    <string name="todo">TODO</string>
+
+    <string name="blankhistory">Words you searched recently show up here</string>
+
+    <!--live ID's-->
+    <string name="banner_ad_unit_id">ca-app-pub-9925117394859997/9899135314</string>
+    <string name="banner_app_id">ca-app-pub-9925117394859997~7536809828</string>
+</resources>
