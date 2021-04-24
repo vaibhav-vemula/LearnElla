@@ -38,14 +38,14 @@ public class MainActivity extends AppCompatActivity
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-//        dbHelper = new DBHelper(this);
-//        try {
-//            dbHelper.createDB();
-//        } catch (IOException e) {
-//            System.out.println("error doinbackground" +e);
-//            throw new Error("Database was not created");
-//        }
-//        dbHelper.close();
+        dbHelper = new DBHelper(this);
+        try {
+            dbHelper.createDB();
+        } catch (IOException e) {
+            System.out.println("error doinbackground" +e);
+            throw new Error("Database was not created");
+        }
+        dbHelper.close();
 
 
         heading = (TextView)findViewById(R.id.heading);
