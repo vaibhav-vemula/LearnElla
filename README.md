@@ -1,5 +1,5 @@
 # LearnElla
-Quiz(with differnet categories), Dictionary(offline) and eBook Library app(android)
+Quiz(with different categories), Dictionary(offline) and eBook Library app(android)
 
 ### Database Used -
 - SQLite DB
